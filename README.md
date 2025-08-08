@@ -5,8 +5,43 @@
 
 <h1 align="center">Hi! 👋 I'm Shakib </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=web Developer+%7C+UI+Builder;React+%7C+Frontend+developer;Continuous+Learner;Currently+exploring+Node.js+%26+MongoDB;JavaScript+%F0%9F%92%BB" alt="Typing SVG" />
+## 👨‍💻 About Me  
+  
+I love working with modern JavaScript frameworks, exploring new tools, and constantly improving my skills in both frontend and backend development.
+
+
+---
+# 💫 About Me:
+ I am a passionate Web Developer. <br> I am exploring **Next.js**  <br> I’m working on a **Dev Community Website Project**  <br> Learning **Advanced React Patterns**  <br> Improving my **Backend APIs** with Node.js & MongoDB 
+ 
+---
+
+## 🛠 Skills  
+
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 </p>
+
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shakib0976&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shakib0976&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib0976&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shakib0976&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
