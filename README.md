@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/pvm6pHCw/Black-and-White-Modern-Professional-Sales-and-Marketing-Profile-Linked-In-Banner.png" alt="Md. Shakib Khan Banner" />
 </p>
 
-<h1 align="center">Hi! <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /> I'm Shakib </h1>
+<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Shakib </h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 ## 👨‍💻 About Me  
