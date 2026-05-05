@@ -132,19 +132,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <b>⭐️ Made with ❤️ by <a href="https://github.com/Shakib0976">Shakib Khan</a></b>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/main/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/main/footer-dark.svg">
-  <img alt="Footer" src="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/main/footer-dark.svg" width="100%">
-</picture>
