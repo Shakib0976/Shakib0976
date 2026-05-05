@@ -121,43 +121,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📱 Dev Community Website</h3>
-        <p align="center">A full-stack community platform for developers to share knowledge and collaborate.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
-        </p>
-        <p align="center">
-          <a href="#">🔗 Live Demo</a> |
-          <a href="#">📁 Source Code</a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 E-Commerce Platform</h3>
-        <p align="center">Modern e-commerce solution with Next.js and Stripe integration.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe" />
-        </p>
-        <p align="center">
-          <a href="#">🔗 Live Demo</a> |
-          <a href="#">📁 Source Code</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📊 Profile Statistics
 
 <div align="center">
