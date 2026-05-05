@@ -24,12 +24,12 @@
   <tr>
     <td width="60%">
       <ul>
-        <li> I'm currently working on a <strong>Dev Community Website Project</strong></li>
-        <li> I'm exploring <strong>Next.js 14+</strong></li>
-        <li> Learning <strong>Advanced React Patterns</strong></li>
-        <li> Improving my <strong>Backend APIs</strong> with Node.js & MongoDB</li>
-        <li> Open to collaborating on innovative projects</li>
-        <li> 2025 Goals: Contribute more to Open Source</li>
+        <li>🔭 I'm currently working on a <strong>Dev Community Website Project</strong></li>
+        <li>🌱 I'm exploring <strong>Next.js 14+</strong></li>
+        <li>📚 Learning <strong>Advanced React Patterns</strong></li>
+        <li>⚡ Improving my <strong>Backend APIs</strong> with Node.js & MongoDB</li>
+        <li>💡 Open to collaborating on innovative projects</li>
+        <li>🎯 2025 Goals: Contribute more to Open Source</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -77,57 +77,51 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 Streak & Languages
+### 🔥 Streak Stats
 <div align="center">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Shakib0976&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=2E9AFE&fire=2E9AFE&currStreakLabel=2E9AFE" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib0976&theme=react&hide_border=true&layout=compact&bg_color=0D1117&langs_count=10&title_color=2E9AFE" alt="Top Languages" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Shakib0976&theme=dark&hide_border=true&background=0D1117&ring=2E9AFE&fire=2E9AFE&currStreakLabel=2E9AFE&sideLabels=2E9AFE&dates=FFFFFF&stroke=2E9AFE" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-### 📈 Overall Stats & Trophies
+### 📈 GitHub Stats & Top Languages
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Shakib0976&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib0976&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
-### 🗂️ Contribution Details
+### 🏆 GitHub Trophies
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Contribution Details" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib0976&theme=react&hide_border=true&layout=donut&bg_color=0D1117&title_color=2E9AFE" alt="Languages Donut" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Shakib0976&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-### 🏅 GitHub Profile Summary
+### 🏅 Profile Summary Cards
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakib0976&theme=github_dark" width="98%" alt="Profile Summary" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakib0976&theme=github_dark" alt="Profile Summary" />
 </div>
 
 <div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakib0976&theme=github_dark" alt="Repos Per Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shakib0976&theme=github_dark" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shakib0976&theme=github_dark&utcOffset=6" alt="Productive Time" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shakib0976&theme=github_dark&utcOffset=6" alt="Productive Time (UTC+6)" />
 </div>
 
 <br/>
 
-### 📅 Activity Graph
+### 📅 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=2E9AFE&line=2E9AFE&point=FFFFFF" alt="GitHub Activity Graph" width="98%" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakib0976/Shakib0976/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shakib0976/Shakib0976/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Shakib0976/Shakib0976/output/github-snake-dark.svg" width="98%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Shakib0976/Shakib0976/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="98%" />
 </div>
 
 ---
@@ -175,6 +169,66 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Learning-Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building-Dev_Community_Platform-2E9AFE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+---
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Gaming-FF4500?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reading-8FBC8F?style=for-the-badge&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee_Time-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" />
+</div>
+
+---
+
+## 📌 2025 Goals & Milestones
+
+<div align="center">
+  <details>
+    <summary><b>Click to expand</b></summary>
+    <br/>
+    <table>
+      <tr>
+        <td valign="top">
+          <h4>✅ Completed</h4>
+          <ul>
+            <li>Master Next.js App Router</li>
+            <li>Learn Tailwind CSS Advanced</li>
+            <li>Complete React Patterns Course</li>
+          </ul>
+        </td>
+        <td valign="top">
+          <h4>🔄 In Progress</h4>
+          <ul>
+            <li>Build 3 Full-Stack Applications</li>
+            <li>Write Technical Blog Posts</li>
+            <li>TypeScript Mastery</li>
+          </ul>
+        </td>
+        <td valign="top">
+          <h4>🎯 Upcoming</h4>
+          <ul>
+            <li>Contribute to Open Source</li>
+            <li>Learn GraphQL</li>
+            <li>Get AWS Certified</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 ---
