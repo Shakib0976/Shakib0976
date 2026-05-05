@@ -77,9 +77,9 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 Streak Stats
+### 🔥 GitHub Streak Stats
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Shakib0976&theme=dark&hide_border=true&background=0D1117&ring=2E9AFE&fire=2E9AFE&currStreakLabel=2E9AFE&sideLabels=2E9AFE&dates=FFFFFF&stroke=2E9AFE" alt="GitHub Streak" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=Shakib0976&theme=dark&hide_border=true&background=0D1117&ring=2E9AFE&fire=2E9AFE&currStreakLabel=2E9AFE&sideLabels=2E9AFE&dates=FFFFFF&stroke=2E9AFE" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -94,16 +94,21 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Shakib0976&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Shakib0976&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-### 🏅 Profile Summary Cards
+### 🏅 Detailed GitHub Analytics
+
+#### Profile Summary - Total Contributions & Activity
 <div align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakib0976&theme=github_dark" alt="Profile Summary" />
 </div>
 
+<br/>
+
+#### Language Distribution & Commit Analysis
 <div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakib0976&theme=github_dark" alt="Repos Per Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shakib0976&theme=github_dark" alt="Most Commit Language" />
@@ -112,9 +117,9 @@
 
 <br/>
 
-### 📅 Contribution Activity Graph
+### 📅 Contribution Activity Graph (Last Year)
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true&theme=github" alt="GitHub Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
@@ -125,15 +130,15 @@
 
 <div align="center">
   <a href="https://github.com/Shakib0976" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/shakib09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   &nbsp;
   <a href="mailto:shakib.khan@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
 </div>
 
@@ -193,7 +198,7 @@
 
 <div align="center">
   <details>
-    <summary><b>Click to expand</b></summary>
+    <summary><b>📊 Click to expand my goals</b></summary>
     <br/>
     <table>
       <tr>
@@ -228,8 +233,11 @@
 
 ---
 
+## 📊 Profile Statistics
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shakib0976&color=2E9AFE&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Shakib0976?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
@@ -238,5 +246,5 @@
 <div align="center">
   <b>💻 "First, solve the problem. Then, write the code." — John Johnson</b>
   <br/><br/>
-  <b>⭐️ From <a href="https://github.com/Shakib0976">Shakib Khan</a></b>
+  <b>⭐️ Made with ❤️ by <a href="https://github.com/Shakib0976">Shakib Khan</a></b>
 </div>
