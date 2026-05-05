@@ -79,7 +79,7 @@
 
 ### 🔥 Streak Stats
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Shakib0976&theme=dark&hide_border=true&background=0D1117&ring=2E9AFE&fire=2E9AFE&currStreakLabel=2E9AFE&sideLabels=2E9AFE&dates=FFFFFF&stroke=2E9AFE" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Shakib0976&theme=dark&hide_border=true&background=0D1117&ring=2E9AFE&fire=2E9AFE&currStreakLabel=2E9AFE&sideLabels=2E9AFE&dates=FFFFFF&stroke=2E9AFE" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -114,15 +114,10 @@
 
 ### 📅 Contribution Activity Graph
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true&theme=github" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shakib0976/Shakib0976/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="98%" />
-</div>
 
 ---
 
