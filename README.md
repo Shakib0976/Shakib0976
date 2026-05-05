@@ -86,79 +86,35 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 ### 📊 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib0976&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Top Languages" />
-</div>
-
-<br/>
-
-### 📈 WakaTime Stats (Coding Activity)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shakib0976&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
-</div>
-
-<br/>
-
-### 📊 GitHub Stats Cards (Alternative View)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&text_color=FFFFFF&count_private=true" alt="GitHub Stats Card" />
-</div>
-
-<br/>
-
-### 💻 Most Used Languages (Pie Chart)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib0976&theme=dark&hide_border=true&layout=pie&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&langs_count=6" alt="Languages Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib0976&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shakib0976&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakib0976&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 ### 📅 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true&radius=8" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
 
-### 📊 GitHub Metrics
+### 📊 Contribution Calendar
 <div align="center">
-  <img src="https://metrics.lecoq.io/Shakib0976?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
-</div>
-
----
-
-## 🎯 Additional Analytics
-
-### ⏱️ Coding Activity (Last 7 Days)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shakib0976&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&layout=compact&range=last_7_days" alt="Weekly Coding Activity" />
-</div>
-
-<br/>
-
-### 📈 Contribution Calendar
-<div align="center">
-  <img src="https://ghchart.rshah.org/Shakib0976" alt="GitHub Contribution Calendar" />
-</div>
-
-<br/>
-
-### 📊 GitHub Repository Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&text_color=FFFFFF&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed GitHub Stats" />
+  <img src="https://ghchart.rshah.org/2E9AFE/Shakib0976" alt="GitHub Contribution Calendar" />
 </div>
 
 ---
@@ -199,7 +155,7 @@
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
         </p>
         <p align="center">
-          <a href="#">🔗 Live Demo</a>
+          <a href="#">🔗 Live Demo</a> |
           <a href="#">📁 Source Code</a>
         </p>
       </td>
@@ -212,7 +168,7 @@
           <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe" />
         </p>
         <p align="center">
-          <a href="#">🔗 Live Demo</a>
+          <a href="#">🔗 Live Demo</a> |
           <a href="#">📁 Source Code</a>
         </p>
       </td>
@@ -240,15 +196,67 @@
   <img src="https://img.shields.io/badge/Reading-8FBC8F?style=for-the-badge&logo=book&logoColor=white" />
   <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   <img src="https://img.shields.io/badge/Coffee_Time-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Travel-FF6B6B?style=for-the-badge&logo=airbnb&logoColor=white" />
 </div>
 
 ---
 
-## 📈 Weekly Development Breakdown
+## 📌 2025 Goals & Milestones
 
-```text
-TypeScript   15 hrs 42 mins  █████████████████░░░░░░   68.2%
-JavaScript   4 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░   19.4%
-CSS          1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░   6.7%
-HTML         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░   5.7%
+<div align="center">
+  <details>
+    <summary><b>📊 Click to expand my goals</b></summary>
+    <br/>
+    <table>
+      <tr>
+        <td valign="top">
+          <h4>✅ Completed</h4>
+          <ul>
+            <li>Master Next.js App Router</li>
+            <li>Learn Tailwind CSS Advanced</li>
+            <li>Complete React Patterns Course</li>
+          </ul>
+        </td>
+        <td valign="top">
+          <h4>🔄 In Progress</h4>
+          <ul>
+            <li>Build 3 Full-Stack Applications</li>
+            <li>Write Technical Blog Posts</li>
+            <li>TypeScript Mastery</li>
+          </ul>
+        </td>
+        <td valign="top">
+          <h4>🎯 Upcoming</h4>
+          <ul>
+            <li>Contribute to Open Source</li>
+            <li>Learn GraphQL</li>
+            <li>Get AWS Certified</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+---
+
+## 📊 Profile Statistics
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shakib0976&color=2E9AFE&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Shakib0976?label=Followers&style=social" alt="GitHub Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Shakib0976?label=Total%20Stars&style=social" alt="GitHub Stars" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <b>⭐️ Made with ❤️ by <a href="https://github.com/Shakib0976">Shakib Khan</a></b>
+</div>
