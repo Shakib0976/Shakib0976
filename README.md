@@ -114,24 +114,11 @@
 
 <br/>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shakib0976&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 ### 📅 Contribution Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-<br/>
-
-### 📊 Contribution Calendar
-<div align="center">
-  <img src="https://ghchart.rshah.org/2E9AFE/Shakib0976" alt="GitHub Contribution Calendar" />
-</div>
 
 <br/>
 
@@ -197,67 +184,6 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Learning-Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building-Dev_Community_Platform-2E9AFE?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploring-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mastering-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Gaming-FF4500?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reading-8FBC8F?style=for-the-badge&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coffee_Time-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" />
-</div>
-
----
-
-## 📌 2025 Goals & Milestones
-
-<div align="center">
-  <details>
-    <summary><b>📊 Click to expand my goals</b></summary>
-    <br/>
-    <table>
-      <tr>
-        <td valign="top">
-          <h4>✅ Completed</h4>
-          <ul>
-            <li>Master Next.js App Router</li>
-            <li>Learn Tailwind CSS Advanced</li>
-            <li>Complete React Patterns Course</li>
-          </ul>
-        </td>
-        <td valign="top">
-          <h4>🔄 In Progress</h4>
-          <ul>
-            <li>Build 3 Full-Stack Applications</li>
-            <li>Write Technical Blog Posts</li>
-            <li>TypeScript Mastery</li>
-          </ul>
-        </td>
-        <td valign="top">
-          <h4>🎯 Upcoming</h4>
-          <ul>
-            <li>Contribute to Open Source</li>
-            <li>Learn GraphQL</li>
-            <li>Get AWS Certified</li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-  </details>
 </div>
 
 ---
