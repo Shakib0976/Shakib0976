@@ -86,14 +86,14 @@
 
 ### 📈 GitHub Stats (Working Alternative)
 <div align="center">
-  <img src="https://github-readme-stats-shakib0976.vercel.app/api?username=Shakib0976&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-shakib0976.vercel.app/api?username=Shakib0976&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2E9AFE&title_color=2E9AFE&text_color=FFFFFF&include_all_commits=true&count_private=true?v=1" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 ### 📊 Top Languages (Working Alternative)
 <div align="center">
-  <img src="https://github-readme-stats-shakib0976.vercel.app/api/top-langs/?username=Shakib0976&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-shakib0976.vercel.app/api/top-langs/?username=Shakib0976&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&langs_count=8?v=1" alt="Top Languages" />
 </div>
 
 > **Note:** If stats don't load immediately, add `?v=1` at the end of URLs or wait 5 minutes for GitHub API to refresh.
