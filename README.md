@@ -24,12 +24,12 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 I'm currently working on a <strong>Dev Community Website Project</strong></li>
-        <li>🌱 I'm exploring <strong>Next.js 14+</strong></li>
-        <li>📚 Learning <strong>Advanced React Patterns</strong></li>
-        <li>⚡ Improving my <strong>Backend APIs</strong> with Node.js & MongoDB</li>
-        <li>💡 Open to collaborating on innovative projects</li>
-        <li>🎯 2025 Goals: Contribute more to Open Source</li>
+        <li> I'm currently working on a <strong>Dev Community Website Project</strong></li>
+        <li> I'm exploring <strong>Next.js 14+</strong></li>
+        <li> Learning <strong>Advanced React Patterns</strong></li>
+        <li> Improving my <strong>Backend APIs</strong> with Node.js & MongoDB</li>
+        <li> Open to collaborating on innovative projects</li>
+        <li> 2025 Goals: Contribute more to Open Source</li>
       </ul>
     </td>
     <td width="40%" align="center">
