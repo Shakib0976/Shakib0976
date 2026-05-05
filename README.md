@@ -99,30 +99,10 @@
 
 <br/>
 
-### 🏅 Detailed GitHub Analytics
-
-#### Profile Summary - Total Contributions & Activity
+### 📅 Contribution Activity Graph
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakib0976&theme=github_dark" alt="Profile Summary" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
-
-<br/>
-
-#### Language Distribution & Commit Analysis
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakib0976&theme=github_dark" alt="Repos Per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shakib0976&theme=github_dark" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shakib0976&theme=github_dark&utcOffset=6" alt="Productive Time (UTC+6)" />
-</div>
-
-<br/>
-
-### 📅 Contribution Activity Graph (Last Year)
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakib0976&bg_color=0D1117&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
 
 ---
 
@@ -190,45 +170,6 @@
   <img src="https://img.shields.io/badge/Reading-8FBC8F?style=for-the-badge&logo=book&logoColor=white" />
   <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   <img src="https://img.shields.io/badge/Coffee_Time-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" />
-</div>
-
----
-
-## 📌 2025 Goals & Milestones
-
-<div align="center">
-  <details>
-    <summary><b>📊 Click to expand my goals</b></summary>
-    <br/>
-    <table>
-      <tr>
-        <td valign="top">
-          <h4>✅ Completed</h4>
-          <ul>
-            <li>Master Next.js App Router</li>
-            <li>Learn Tailwind CSS Advanced</li>
-            <li>Complete React Patterns Course</li>
-          </ul>
-        </td>
-        <td valign="top">
-          <h4>🔄 In Progress</h4>
-          <ul>
-            <li>Build 3 Full-Stack Applications</li>
-            <li>Write Technical Blog Posts</li>
-            <li>TypeScript Mastery</li>
-          </ul>
-        </td>
-        <td valign="top">
-          <h4>🎯 Upcoming</h4>
-          <ul>
-            <li>Contribute to Open Source</li>
-            <li>Learn GraphQL</li>
-            <li>Get AWS Certified</li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-  </details>
 </div>
 
 ---
