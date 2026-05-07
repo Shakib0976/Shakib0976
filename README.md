@@ -16,12 +16,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
 </div> -->
 
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a1e,60:0a3d2e,100:0d1117&height=220&section=header&text=Md.%20Shakib%20Khan%20Noyon&fontSize=40&fontColor=4af7c4&fontAlignY=40&desc=⚡%20Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Code%20Artist&descAlignY=60&descSize=16&descFontColor=a0f0d0&animation=fadeIn" width="100%"/>
-</div>
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4AF7C4&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Shakib+%F0%9F%91%8B;Frontend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;I+build+beautiful+web+experiences+%F0%9F%8C%90;Clean+Code+%7C+Clean+UI+%7C+Great+UX+%E2%9C%A8)](https://git.io/typing-svg)
- 
 </div>
 <br/>
 <div align="center">
