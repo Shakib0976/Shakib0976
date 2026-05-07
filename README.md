@@ -111,11 +111,6 @@ goals_2025:
 
 <br/>
 
-### 📈 Alternative Stats (GitHub Readme Stats Clone)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakib0976&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=2E9AFE&text_color=FFFFFF&icon_color=2E9AFE&count_private=true&include_all_commits=true" />
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -136,18 +131,6 @@ goals_2025:
   <a href="https://twitter.com/shakib0976" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</div>
-
----
-
-## 📊 Profile Statistics
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shakib0976&color=2E9AFE&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Shakib0976?label=Followers&style=social" alt="GitHub Followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Shakib0976?label=Total%20Stars&style=social" alt="GitHub Stars" />
 </div>
 
 <br/>
