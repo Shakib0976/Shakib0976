@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.ibb.co.com/pvm6pHCw/Black-and-White-Modern-Professional-Sales-and-Marketing-Profile-Linked-In-Banner.png" alt="Md. Shakib Khan Banner" width="100%" />
 </div>
 
@@ -14,7 +14,19 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+</div> -->
+
+<div align="center">
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=200&section=header&text=Md.%20Shakib%20Khan%20Noyon&fontSize=38&fontColor=4af7c4&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18&descFontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
+---
+ 
+<div align="center">
+📞 **+08801727487419** &nbsp;|&nbsp; 📧 **web.shakib09@gmail.com**
+ 
+</div>
+
 
 ---
 
