@@ -18,25 +18,44 @@
 
 ---
 
-## 💫 About Me
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li> I'm currently working on a <strong>Dev Community Website Project</strong></li>
-        <li> I'm exploring <strong>Next.js 14+</strong></li>
-        <li> Learning <strong>Advanced React Patterns</strong></li>
-        <li> Improving my <strong>Backend APIs</strong> with Node.js & MongoDB</li>
-        <li> Open to collaborating on innovative projects</li>
-        <li> 2025 Goals: Contribute more to Open Source</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding" />
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+name: Md Shakib Khan Noyon
+location: Stlhet, Bangladesh 🇧🇩
+role: Full-Stack Developer
+education: CSE @ HPI
+
+interests:
+  - Full Stack Development
+  - Full Stack Applications
+  - System Design
+  - Open Source
+
+learning: Next.js 15 & AI Technologies
+
+goals_2025:
+  - Contribute to Open Source
+  - Build Production-Ready Website
+  - Master Cloud Platforms
+  - Share Knowledge
+```
+
+</td>
+<td width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding" />
+
+</td>
+</tr>
 </table>
+
+<br/>
 
 ---
 
