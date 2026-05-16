@@ -8,14 +8,13 @@
   <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="40px" height="40px" />
 </h1>
 
-<h3 align="center">🚀 Passionate Web Developer | Crafting Digital Experiences</h3>
+<h3 align="center">🚀 Passionate Web Developer  ddd | Crafting Digital Experiences</h3>
 
 <br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
-</div> -->
-
+</div> dfddd -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a1e,60:0a3d2e,100:0d1117&height=220&section=header&text=Md.%20Shakib%20Khan%20Noyon&fontSize=40&fontColor=4af7c4&fontAlignY=40&desc=⚡%20Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Code%20Artist&descAlignY=60&descSize=16&descFontColor=a0f0d0&animation=fadeIn" width="100%"/>
